@@ -1,5 +1,7 @@
 ## Descripción de las Entidades
 
+![](./Modelo_entidad_relacion.png)
+
 * **Vivero:** Representa cada uno de los centros de la red de viveros de la empresa Tajinaste S.A.
 * **Zona:** Representa las distintas áreas que tiene internamente un vivero (por ejemplo, zona exterior, almacén, invernadero, etc.). Su existencia e identificación dependen directamente de la entidad `Vivero` a la que pertenece.
 * **Producto:** Representa los artículos que comercializa la empresa (plantas, productos de jardinería y artículos de decoración).
